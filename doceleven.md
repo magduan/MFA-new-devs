@@ -17,7 +17,7 @@ No. You only need to install R and RStudio once. After that, you can open RStudi
 
 ### I am getting a “package not found” error. What should I do? 
 Make sure you installed all required packages. 
-In RStudio, paste the following commands in the *Console* pane, then press Enter:
+In RStudio, run the following commands in the *Console* pane:
 ```
 install.packages("dplyr")
 install.packages("DT")
